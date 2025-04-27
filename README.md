@@ -9,15 +9,15 @@ Welcome to the **Truth or Lie Detector**, a fun and interactive program designed
 ---
 
 ## 🚀 Features  
-✨ **Interactive UI**: Simple and user-friendly design powered by `tkinter`.  
+✨ **Interactive UI**: Simple and user-friendly design powered by `Python`.  
 ⚡ **Quick Detection**: Instant results with every statement.  
 😂 **Prank Potential**: Fool your friends with personalized truths and lies!  
 
 ---
 
 ## 🛠️ How It Works  
-1. Launch the program on your computer.  
-2. Input any statement when prompted.  
+1. Launch the program on your computer.
+2. Say Something or let your Friend say something.
 3. The result depends on the **Ctrl key**:
    - **Hold Ctrl** ➡️ Statement is marked as **Truth** ✅  
    - **Do NOT press Ctrl** ➡️ Statement is marked as **Lie** ❌  
@@ -43,14 +43,11 @@ The `.exe` file is intended exclusively for authorized users of this project. An
    git clone https://github.com/Hitengupta-coding/truth-or-lie-detector.git
    cd truth-or-lie-detector
    ```
-2. **Run the Script Locally**:  
-   Make sure Python 3 and `tkinter` are installed. Execute:  
+2. **Run the app**:
+  On windows command prompt:
    ```bash
-   python truth_or_lie_detector.py
+   TruthOrLieDetector
    ```
-
-3. Alternatively, download and run the precompiled `.exe` file **from this repository only.**
-
 ---
 
 ## 🎉 Perfect Use Cases  
