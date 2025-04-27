@@ -1,7 +1,7 @@
 # 🎭 Truth or Lie Detector
 
 **Version:** v1.0  
-**Author:** [Hiten gupta]  
+**Author:** Hiten Gupta  
 
 ## 📋 Description  
 Welcome to the **Truth or Lie Detector**, a fun and interactive program designed for games, pranks, or playful debates. Be ready to keep everyone guessing, as the program cleverly determines whether a statement is **true** or **a lie**—all based on the use of the **Ctrl key**.
